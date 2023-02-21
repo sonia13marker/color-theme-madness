@@ -1,0 +1,37 @@
+{
+  "name": "madness",
+  "displayName": "madness",
+  "description": "Madness color theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "sonia13marker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonia13marker/color-theme-madness"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "madness",
+    "dark theme madness",
+    "madness color theme",
+    "madness theme",
+    "madness dark theme",
+    "blue and vinous theme", 
+    "sonia13marker"
+  ],
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Madness",
+        "uiTheme": "vs-dark",
+        "path": "./themes/madnessTheme-color-theme.json"
+      }
+    ]
+  }
+}
