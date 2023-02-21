@@ -2,7 +2,7 @@
   "name": "madness",
   "displayName": "madness",
   "description": "Madness color theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "sonia13marker",
   "icon": "madness-logo.png",
   "repository": {
@@ -17,7 +17,7 @@
     "madness color theme",
     "madness theme",
     "madness dark theme",
-    "blue and vinous theme", 
+    "blue and vinous theme",
     "sonia13marker"
   ],
   "engines": {
