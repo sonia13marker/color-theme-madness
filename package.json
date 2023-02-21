@@ -4,6 +4,7 @@
   "description": "Madness color theme for VS Code",
   "version": "1.0.0",
   "publisher": "sonia13marker",
+  "icon": "madness-logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/sonia13marker/color-theme-madness"
