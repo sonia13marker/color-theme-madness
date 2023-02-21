@@ -606,14 +606,14 @@
 		"name": "Classes",
 		"scope": "entity.name.type.namespace",
 		"settings": {
-		  "foreground": "#d13f3d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
 		"name": "Classes",
 		"scope": "support.class, entity.name.type.class",
 		"settings": {
-		  "foreground": "#d13f3d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -793,7 +793,7 @@
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
 		  "fontStyle": "normal",
-		  "foreground": "#6fa9d3"
+		  "foreground": "#d13f3d"
 		}
 	  },
 	  {
@@ -801,7 +801,7 @@
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
 		  "fontStyle": "normal",
-		  "foreground": "#517d9d"
+		  "foreground": "#d13f3d"
 		}
 	  },
 	  {
@@ -815,14 +815,14 @@
 		"name": "Headings",
 		"scope": "markup.heading",
 		"settings": {
-		  "foreground": "#d13f3d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
 		"name": "Headings",
 		"scope": "markup.heading punctuation.definition.heading, entity.name.section",
 		"settings": {
-		  "foreground": "#6fa9d3"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -864,7 +864,7 @@
 		"name": "[VSCODE-CUSTOM] Markdown headings",
 		"scope": "entity.name.section.markdown",
 		"settings": {
-		  "foreground": "#d13f3d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -885,14 +885,14 @@
 		"name": "[VSCODE-CUSTOM] Markdown heading setext",
 		"scope": "markup.heading.setext",
 		"settings": {
-		  "foreground": "#7f848e"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
 		"name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
 		"scope": "punctuation.definition.bold.markdown",
 		"settings": {
-		  "foreground": "#517d9d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -1052,7 +1052,7 @@
 		"name": "[VSCODE-CUSTOM] JSON Property Name",
 		"scope": "support.type.property-name.json",
 		"settings": {
-		  "foreground": "#d13f3d"
+		  "foreground": "#CDCDCD"
 		}
 	  },
 	  {
@@ -1066,14 +1066,14 @@
 		"name": "laravel blade tag",
 		"scope": "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade",
 		"settings": {
-		  "foreground": "#517d9d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
 		"name": "laravel blade @",
 		"scope": "text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade",
 		"settings": {
-		  "foreground": "#517d9d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -1336,7 +1336,7 @@
 		  "keyword.operator.module"
 		],
 		"settings": {
-		  "foreground": "#517d9d"
+		  "foreground": "#d13f3d"
 		}
 	  },
 	  {
@@ -1481,7 +1481,7 @@
 		  "constant.character.entity"
 		],
 		"settings": {
-		  "foreground": "#d13f3d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -1643,7 +1643,7 @@
 		  "entity.name.function.xi"
 		],
 		"settings": {
-		  "foreground": "#d13f3d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -1652,7 +1652,7 @@
 		  "entity.name.class.xi"
 		],
 		"settings": {
-		  "foreground": "#deeef2"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -1661,7 +1661,7 @@
 		  "constant.character.character-class.regexp.xi"
 		],
 		"settings": {
-		  "foreground": "#d13f3d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -1670,7 +1670,7 @@
 		  "constant.regexp.xi"
 		],
 		"settings": {
-		  "foreground": "#517d9d"
+		  "foreground": "#fff"
 		}
 	  },
 	  {
@@ -1715,7 +1715,7 @@
 		  "constant.character.xi"
 		],
 		"settings": {
-		  "foreground": "#6fa9d3"
+		  "foreground": "#d13f3d"
 		}
 	  },
 	  {
@@ -1742,7 +1742,7 @@
 		  "constant.other.color.rgb-value.xi"
 		],
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#517d9d"
 		}
 	  },
 	  {
